@@ -1,0 +1,29 @@
+borough,complaint_type,requests,rank,borough_pct
+BRONX,HEAT/HOT WATER,320,1,23.49
+BRONX,Noise - Residential,309,2,22.69
+BRONX,Illegal Parking,174,3,12.78
+BRONX,Blocked Driveway,79,4,5.8
+BRONX,UNSANITARY CONDITION,51,5,3.74
+BROOKLYN,Illegal Parking,443,1,19.4
+BROOKLYN,Noise - Residential,437,2,19.13
+BROOKLYN,Blocked Driveway,215,3,9.41
+BROOKLYN,HEAT/HOT WATER,201,4,8.8
+BROOKLYN,Noise - Street/Sidewalk,84,5,3.68
+MANHATTAN,Noise - Residential,269,1,18.01
+MANHATTAN,HEAT/HOT WATER,184,2,12.32
+MANHATTAN,Noise - Helicopter,127,3,8.5
+MANHATTAN,Illegal Parking,112,4,7.5
+MANHATTAN,Noise - Street/Sidewalk,100,5,6.69
+QUEENS,Noise - Residential,427,1,22.63
+QUEENS,Illegal Parking,404,2,21.41
+QUEENS,Blocked Driveway,241,3,12.77
+QUEENS,HEAT/HOT WATER,135,4,7.15
+QUEENS,Noise - Street/Sidewalk,62,5,3.29
+STATEN ISLAND,Noise - Residential,39,1,16.46
+STATEN ISLAND,Illegal Parking,34,2,14.35
+STATEN ISLAND,Blocked Driveway,21,3,8.86
+STATEN ISLAND,Illegal Fireworks,15,4,6.33
+STATEN ISLAND,New Tree Request,11,5,4.64
+Unspecified,For Hire Vehicle Complaint,3,1,60.0
+Unspecified,Consumer Complaint,1,2,20.0
+Unspecified,Ferry Inquiry,1,3,20.0
